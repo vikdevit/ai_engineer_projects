@@ -10,10 +10,11 @@ __pycache__/
 venv/
 env/
 
-# Données / modèles lourds (dans le projet)
+# Données / modèles lourds (dans chaque projet)
+models/
+results/
 data/
 datasets/
-models/
 *.pth
 *.pt
 *.h5
